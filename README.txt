@@ -1,4 +1,4 @@
 # Workshop de Git
-Italo Oliveira
+Italo Oliveira Fernandes
 Maceió  
 Engenharia da Computação
